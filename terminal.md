@@ -119,3 +119,84 @@
 - **Clear the Screen**
   ```cmd
   cls
+# Windows Terminal Commands Guide
+
+## Most Useful Commands
+
+### Navigation
+- **`cd`**: Change directory
+  - `cd [directory]`
+  - `cd ..` (Move up one directory)
+  - `cd \` (Go to root directory)
+- **`dir`**: List directory contents
+  - `dir`
+  - `dir /a` (Include hidden files)
+  - `dir /b` (Bare format)
+
+### File Management
+- **`copy`**: Copy files
+  - `copy [source] [destination]`
+- **`move`**: Move or rename files
+  - `move [source] [destination]`
+- **`del`**: Delete files
+  - `del [file]`
+- **`mkdir`**: Make a new directory
+  - `mkdir [directory]`
+- **`rmdir`**: Remove an empty directory
+  - `rmdir [directory]`
+
+### Viewing Files
+- **`type`**: Display the contents of a file
+  - `type [file]`
+- **`more`**: View file contents one page at a time
+  - `more [file]`
+
+### System Information
+- **`cls`**: Clear the terminal screen
+- **`tasklist`**: List all currently running processes
+- **`taskkill`**: Kill a running process
+  - `taskkill /PID [process_id]`
+
+### Process Management
+- **`start`**: Start a program or command
+  - `start [program]`
+
+---
+
+## Less Useful Commands
+
+### File Management
+- **`xcopy`**: Extended copy of files and directory trees
+  - `xcopy [source] [destination] /s /e`
+- **`robocopy`**: Robust file and folder copy
+  - `robocopy [source] [destination] /MIR`
+- **`ren`**: Rename a file or directory
+  - `ren [oldname] [newname]`
+- **`erase`**: Delete one or more files
+  - `erase [file]`
+- **`attrib`**: Change file attributes
+  - `attrib +r [file]`
+  - `attrib -h [file]`
+
+### Viewing Files
+- **`findstr`**: Search for strings in files
+  - `findstr "search_term" [file]`
+
+### Miscellaneous
+- **`pause`**: Pauses the execution of a batch file and displays a message.
+- **`exit`**: Exit the command prompt or a batch file.
+- **`echo`**: Display messages or turn command echoing on or off.
+  - `echo [message]`
+
+### Networking
+- **`ping`**: Test network connectivity
+  - `ping [host]`
+- **`ipconfig`**: Display IP configuration
+- **`tracert`**: Trace route to a network host
+  - `tracert [host]`
+- **`netstat`**: Display network connections, routing tables, and interface statistics
+
+### Disk Management
+- **`chkdsk`**: Check a disk and display a status report
+  - `chkdsk [drive:]`
+- **`diskpart`**: Disk partition management tool
