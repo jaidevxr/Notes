@@ -1,4 +1,4 @@
-# B.Tech Second Year - Semester 3
+# B.Tech Second Year - Semester 111
 
 ## Complex Analysis and Integral Transform (NBS4301)
 
@@ -7,7 +7,8 @@
 
 | **Module** | **Topics** |
 |------------|------------|
-| **1. Complex Analysis I** | - Analytic function, CR equation, and harmonic functions <br> - Line integral in complex plane <br> - Cauchy's theorem (without proof) <br> - Cauchy's integral formula <br> - Cauchy's integral formula for derivatives of analytic functions <br> - Morera's theorem (without proof) <br> - Liouville's theorem <br> - Fundamental theorem of algebra |
-| **2. Complex Analysis II** | - Representation of a function by power series <br> - Taylor's and Laurent's series <br> - Singularities, zeroes, and poles <br> - Residue theorem <br> - Evaluation of real integrals of the type \( f(\cos\theta, \sin\theta) \) and \( f(x) \) <br> - Introduction to conformal mapping |
-| **3. Laplace Transform** | - Laplace transform, existence theorem <br> - Laplace transform of derivatives and integrals <br> - Inverse Laplace transform <br> - Unit step function, Dirac delta function <br> - Convolution theorem <br> - Application to simple linear and simultaneous differential equations |
-| **4. Fourier and Z-transform** | - Fourier integral, Fourier complex transform <br> - Fourier sine and cosine transforms <br> - Z-transform and applications |
+| **1. Complex Analysis I** | Analytic function, CR equation, and harmonic functions, Line integral in complex plane, Cauchy's theorem (without proof), Cauchy's integral formula, Cauchy's integral formula for derivatives of analytic functions, Morera's theorem (without proof), Liouville's theorem, Fundamental theorem of algebra |
+| **2. Complex Analysis II** | Representation of a function by power series, Taylor's and Laurent's series, Singularities, zeroes, and poles, Residue theorem, Evaluation of real integrals of the type \( f(\cos\theta, \sin\theta) \) and \( f(x) \), Introduction to conformal mapping |
+| **3. Laplace Transform** | Laplace transform, existence theorem, Laplace transform of derivatives and integrals, Inverse Laplace transform, Unit step function, Dirac delta function, Convolution theorem, Application to simple linear and simultaneous differential equations |
+| **4. Fourier and Z-transform** | Fourier integral, Fourier complex transform, Fourier sine and cosine transforms, Z-transform and applications |
+
