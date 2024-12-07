@@ -19,12 +19,13 @@
 # Integral Representations
 
 1. The integral from \(0\) to \(2x\) with the integrand \(f(\cos \theta, \sin \theta)\) with respect to \(d\theta\):
-   \[
+
+   $$
    \int_{0}^{2x} f(\cos \theta, \sin \theta) \, d\theta
-   \]
+   $$
 
 2. The integral from \(-\infty\) to \(\infty\) with the integrand \(f(x)\) with respect to \(dx\):
-   \[
-   \int_{-\infty}^{\infty} f(x) \, dx
-   \]
 
+   $$
+   \int_{-\infty}^{\infty} f(x) \, dx
+   $$
