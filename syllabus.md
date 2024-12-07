@@ -27,14 +27,14 @@
    - Taylor's and Laurent's series
    - Singularities, zeroes, and poles
    - Residue theorem
-   - Evaluation of real integrals of the type
-     \[
-     \int_0^{2\pi} f(\cos \theta, \sin \theta) \, d\theta
-     \]
-   - Evaluation of real integrals of the type
-     \[
-     \int_{-\infty}^{\infty} f(x) \, dx
-     \]
+   - Evaluation of real integrals of the type:
+     ```
+     ∫₀²π f(cos(θ), sin(θ)) dθ
+     ```
+   - Evaluation of real integrals of the type:
+     ```
+     ∫₋∞⁺∞ f(x) dx
+     ```
    - Introduction to conformal mapping
    - **Contact Hours:** 15
 
