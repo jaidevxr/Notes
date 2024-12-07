@@ -2,13 +2,6 @@
 
 ## Complex Analysis and Integral Transform (NBS4301)
 
-**Course Type:** BSC  
-**Pre-Requisite:** 10+2 Mathematics
-
-| L | T | P | Credits |
-|---|---|---|---------|
-| 3 | 1 | 0 | 4       |
-
 ### Course Contents
 
 1. **Complex Analysis I:**
@@ -20,7 +13,6 @@
    - Morera's theorem (without proof)
    - Liouville's theorem
    - Fundamental theorem of algebra
-   - **Contact Hours:** 15
 
 2. **Complex Analysis II:**
    - Representation of a function by power series
@@ -29,14 +21,13 @@
    - Residue theorem
    - Evaluation of real integrals of the type:
      ```
-     ∫₀²π f(cos(θ), sin(θ)) dθ
+     ∫ from 0 to 2x of f(cos(θ), sin(θ)) dθ
      ```
-   - Evaluation of real integrals of the type:
+   - and:
      ```
-     ∫₋∞⁺∞ f(x) dx
+     ∫ from -∞ to +∞ of f(x) dx
      ```
    - Introduction to conformal mapping
-   - **Contact Hours:** 15
 
 3. **Laplace Transform:**
    - Laplace transform, existence theorem
@@ -45,10 +36,10 @@
    - Unit step function, Dirac delta function
    - Convolution theorem
    - Application to simple linear and simultaneous differential equations
-   - **Contact Hours:** 15
+ 
 
 4. **Fourier and Z-transform:**
    - Fourier integral, Fourier complex transform
    - Fourier sine and cosine transforms
    - Z-transform and applications
-   - **Contact Hours:** 15
+
