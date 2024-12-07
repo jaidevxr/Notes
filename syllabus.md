@@ -29,3 +29,6 @@
    $$ 
    \int_{-\infty}^{\infty} f(x) \, dx 
    $$
+$$
+   \int_{-\infty}^{\infty} f(x) \, dx
+   $$ 
