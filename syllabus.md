@@ -21,3 +21,13 @@
 | **2. Groups, Rings, Fields & Lattice** | Algebraic Structures: Definition, Groups, Subgroups and order, Cyclic Groups, Cosets, Lagrange's theorem, Normal Subgroups, Definition and elementary properties of Rings and Fields, Integers Modulo n. Partial order sets: Definition, Partial order sets, Combination of partial order sets, Hasse diagram. Lattices: Definition, Properties of lattices, Bounded, Complemented, Modular, Complete lattice. |
 | **3. Proposition Logic** | Propositional Logic: Proposition, well-formed formula, Truth tables, Tautology, Satisfiability; Contradiction; Algebra of proposition; Theory of Inference; Predicate Logic: First order predicate-well-formed formula of predicate, quantifiers, Inference theory of predicate logic. |
 | **3. Recurrence Relation & Combinatorics** | Recurrence Relation & Generating function: Recursive definition of functions, Recursive algorithms, Method of solving recurrences. Combinatorics: Introduction; Counting Techniques: Pigeonhole Principle. |
+
+## Digital Logic Design (NCS4303)
+
+### Course Contents
+
+| Module | Course Contents                                                                                                                   |
+|--------|------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | **Digital Design and Binary Numbers**: Binary Arithmetic, Negative Numbers and their Arithmetic, Floating point representation, Binary Codes, Cyclic Codes, Error Detecting and Correcting Codes, Hamming Codes. Min term and Max term Realization of Boolean Functions, **Gate-level minimization**: The map method up to four variables, don’t care conditions, SOP and POS simplification, NAND and NOR implementation, Quine Mc - Cluskey Method (Tabular method). |
+| 2      | **Combinational Logic**: Combinational Circuits, Analysis Procedure, Design Procedure, Binary Adder-Subtractor, Code Converters, Parity Generators and Checkers, Decimal Adder, Binary Multiplier, Magnitude Comparator, Decoders, Encoders, Multiplexers, Hazards and Threshold Logic. **Memory and Programmable Logic Devices**: Semiconductor Memories, RAM, ROM, PLA, PAL, Memory System design. |
+| 3      | **Synchronous Sequential Logic**: Sequential Circuits, Storage Elements: Latches, Flip Flops, Analysis of Clocked Sequential circuits, state reduction and assignments, design procedure. Registers and Counters: Shift Registers, Ripple Counter, Synchronous Counter, Other Counters. **Asynchronous Sequential Logic**: Analysis procedure, circuit with latches, design procedure, reduction of state and flow table, race free state assignment, hazards. |
